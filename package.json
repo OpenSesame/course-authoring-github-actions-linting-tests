@@ -1,0 +1,18 @@
+{
+  "name": "@opensesame/course-authoring-github-actions-linting-tests",
+  "version": "1.0.0",
+  "description": "Coding style and verification tests against linting rules for our Node-based packages",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenSesame/course-authoring-github-actions-linting-tests.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenSesame/course-authoring-github-actions-linting-tests/issues"
+  },
+  "homepage": "https://github.com/OpenSesame/course-authoring-github-actions-linting-tests#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
